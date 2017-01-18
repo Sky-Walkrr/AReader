@@ -10,7 +10,7 @@ import cn.droidlover.xdroid.router.Router;
 public class XDroidConf {
     // #log
     public static final boolean LOG = true;
-    public static final String LOG_TAG = "XDroid";
+    public static final String LOG_TAG = "AReader";
 
     // #cache
     public static final String CACHE_SP_NAME = "config";
